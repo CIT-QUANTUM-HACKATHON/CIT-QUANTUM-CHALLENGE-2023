@@ -27,7 +27,8 @@ Join us on a journey to demystify the strange and surreal world of quantum bits,
 ## Stay Tuned for Updates
 
 Keep an eye out for updates on the CIT Quantum Challenge! We are excited to have your presence at our event.
-![CIT Q](https://github.com/CIT-QUANTUM-HACKATHON/CIT-QUANTUM-CHALLENGE-2023/assets/114131042/9bbc6a8b-09fe-4dfa-8a87-e8ccb788ed0a)
+
+![CIT Q](https://github.com/CIT-QUANTUM-HACKATHON/CIT-QUANTUM-CHALLENGE-2023/assets/114131042/bb421925-f9f1-4d05-a0ec-b141915c47e6)
 
 
 Let's dive into the quantum world together!
