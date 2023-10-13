@@ -20,7 +20,9 @@ Join us on a journey to demystify the strange and surreal world of quantum bits,
 ## Event Details
 
 - **Event Name**: CIT Quantum Challenge
-- **Date**: 26/10/2023 - 01/11/2023
+- **Work Shop Dates**: 26/10/2023 - 01/11/2023 **OFFLINE Sessions at Coimbatore Institute of Technology**
+- **Challenge Dates**: 02/11/2023 - 08/11/2023 **ONLINE Submissions**
+- **Results**: 15/11/2023
 - **Location**: Coimbatore
 - **Hashtags**: #ibm #ibmquantum #quantumcomputing #QiskitFallFest #Qiskit #QuantumChallenge #Coimbatore #Workshop
 
